@@ -1,6 +1,6 @@
 # License Status: The Effects Of Daylight Saving Time On Vehicle Crashes In Minnesota
 
-Generated: 2026-05-20 14:46:37 AEST
+Generated: 2026-05-20 15:23:47 AEST
 
 Recorded license/access note from the verified audit row: Public paper/preprint terms and agency source terms apply; raw Minnesota crash data are not cleared for public GitHub release.
 
