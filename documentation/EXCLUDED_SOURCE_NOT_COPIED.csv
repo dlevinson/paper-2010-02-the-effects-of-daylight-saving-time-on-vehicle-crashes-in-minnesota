@@ -1,0 +1,11 @@
+source_path,decision,reason
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/TwinCitiesNetworkAnalysis.sas,excluded_not_paper_scope,Network-centrality distribution script; not part of the DST crash paper method
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/traveldiary.sas,excluded_not_paper_scope,Travel-diary/course-style script; not part of the DST crash paper method
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/crashes on July 4.xlsx,excluded_side_analysis,Small July 4 side-analysis spreadsheet; not part of the published DST crash model package
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/parms.sas7bcat,excluded_environment_file,SAS catalog/profile environment file, not archival paper data/code
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/profile.sas7bcat,excluded_environment_file,SAS catalog/profile environment file, not archival paper data/code
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/profile2.sas7bcat,excluded_environment_file,SAS catalog/profile environment file, not archival paper data/code
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/regstry.sas7bitm,excluded_environment_file,SAS registry/profile environment file, not archival paper data/code
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/sas/9.1_old/Hw*.sas,excluded_coursework,Homework/course scripts in the broader student source tree
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/sas/9.1_old/*example*.sas,excluded_coursework,General class examples in the broader student source tree
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/sas/9.1_old/DBanalysis.sas,excluded_not_paper_scope,Dun and Bradstreet analysis script unrelated to the DST crash paper
