@@ -56,10 +56,12 @@ The earlier P1 path-rebinding note has been superseded. The relevant DST source 
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:57:23 AEST
 
 - Pipeline: `READY-TO-UPLOAD/PRIVATE`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
+- Private release boundary: `agency_crash_source_rights_large_raw_source`.
+- Public/deidentification path: public code-only package with source pointers; no raw crash data
 <!-- package-hardening-status:end -->

@@ -1,6 +1,6 @@
 # Package Status: The Effects Of Daylight Saving Time On Vehicle Crashes In Minnesota
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:57:23 AEST
 
 ## Audit State
 
@@ -27,3 +27,12 @@ Generated: 2026-05-20 15:32:54 AEST
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
 - Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
 - Confirm finality and license before repository creation.
+
+## Private Release Boundary Review
+
+- Private reason category: `agency_crash_source_rights_large_raw_source`
+- Privacy/identification issue: `not_in_staged_code_package`
+- Public/deidentification path: public code-only package with source pointers; no raw crash data
+- Identified source preservation: keep any raw agency crash mirrors outside public package pending rights/privacy review
+- Recommended action: Treat SAS code as public-candidate; keep raw crash data out unless rights-cleared; this is not primarily a deidentification task for staged files.
+- Default release if unresolved: `public_code_candidate_or_metadata`
