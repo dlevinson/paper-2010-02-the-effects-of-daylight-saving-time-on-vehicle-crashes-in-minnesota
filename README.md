@@ -38,7 +38,7 @@ travel-diary scripts, manuscript correspondence, and side analyses are excluded.
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-23 10:43:31 AEST
+Generated: 2026-05-23 11:12:11 AEST
 
 - Pipeline: `READY-TO-UPLOAD/PUBLIC`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
