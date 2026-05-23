@@ -1,0 +1,8 @@
+source_path,logical_size_bytes,local_blocks_4k,release_decision,reason
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/allmncrashdata_new5.sas7bdat,707396608,0,not_copied_source_data,Large crash-analysis SAS table; not included in public code package.
+/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/mnsunrise.sas7bdat,15496192,0,not_copied_reconstructable_derivative,Derived sunrise/sunset SAS data; SAS construction code and source pointers are included.
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/sas/9.1_old/mncrash2001to2007.sas7bdat,761807872,not_checked,not_copied_source_data,Large crash-analysis SAS source table matching paper period; not included in public code package.
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/sas/9.1_old/traffic2001to2007.sas7bdat,96175104,not_checked,not_copied_source_data,Traffic exposure SAS table; paper cites MnDOT ATR source and SAS code documents construction.
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/mndata/1998-2002.csv,346438091,not_checked,not_copied_source_data,Raw crash mirror outside public code package boundary.
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/mndata/2003-2007.csv,256837468,not_checked,not_copied_source_data,Raw crash mirror outside public code package boundary.
+/Users/dlev2617/Documents/Students/Arthur Huang/DST/Original data/AllMNdata/1998-2002.mdb,unknown,not_checked,not_copied_source_data,Raw Access crash mirror outside public code package boundary.

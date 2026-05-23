@@ -1,4 +1,5 @@
 row_id,source,local_copy,decision,reason,size_bytes
-paper-2010-02,/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/Arthur.sas,code/sas/Arthur.sas,copied,Paper-matching SAS analysis code for DST crash-period models,14799
-paper-2010-02,/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/SunriseTime.sas,code/sas/SunriseTime.sas,copied,Paper-matching SAS code for sunrise/sunset and DST indicator construction,48972
-paper-2010-02,/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/mncrashanalysisJune30.sas,code/sas/mncrashanalysisJune30.sas,copied,Main SAS workflow for traffic exposure construction and negative-binomial crash models,313880
+paper-2010-02,/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/Arthur.sas,code/sas/Arthur.sas,copied,Paper-matching SAS analysis code for DST crash-period models.,14799
+paper-2010-02,/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/SunriseTime.sas,code/sas/SunriseTime.sas,copied,Paper-matching SAS code for sunrise/sunset and DST indicator construction.,48972
+paper-2010-02,/Users/dlev2617/Documents/Data/~Nexus_Data/DST/sas/9.1/mncrashanalysisJune30.sas,code/sas/mncrashanalysisJune30.sas,copied,Main SAS workflow for traffic exposure construction and negative-binomial crash models.,313880
+paper-2010-02,/Users/dlev2617/Documents/Papers/~05-Published/Journal of Safety Research/JSR-TRB10-DST/DaylightSavingsTime.pdf,paper/DaylightSavingsTime.pdf,copied,Final published paper reference copy.,665945

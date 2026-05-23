@@ -1,0 +1,7 @@
+url,kind,role,note
+https://doi.org/10.1016/j.jsr.2010.10.006,published_article,citation,Published article DOI.
+http://hdl.handle.net/11299/180000,institutional_preprint,paper_reference,University of Minnesota repository record for the paper/preprint.
+https://dot.state.mn.us/trafficeng/safety/crashdata.html,agency_crash_data_information,source_pointer,MnDOT crash-data information and request page.
+https://www.dot.state.mn.us/stateaid/mncmat2.html,agency_crash_mapping_tool,source_pointer,MnDOT MnCMAT2 crash-mapping tool and data dictionary pointer.
+https://mn.gov/admin/data-practices/data/types/accidents/,data_practices_guidance,release_boundary,Minnesota traffic-accident data disclosure guidance.
+http://www.dot.state.mn.us/traffic/data/atr/atr.html,traffic_volume_source_from_paper,source_pointer,ATR hourly traffic-volume source cited in the paper; URL retained as paper-era source pointer.
