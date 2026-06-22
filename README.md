@@ -1,8 +1,12 @@
 # The Effects Of Daylight Saving Time On Vehicle Crashes In Minnesota
 
+## Contribution
+
+This paper separates the short- and long-term effects of daylight saving time on Minnesota vehicle crashes while distinguishing traffic exposure from crash risk. Its period-specific models and path analysis find no significant first-morning crash effect and show that improved evening visibility reduces crashes overall, partly offset by additional traffic during daylight saving time.
+
 ## Status
 
-`READY-TO-UPLOAD/PUBLIC`.
+`UPLOADED`.
 
 This is a public code-plus-provenance package. It includes the final paper
 reference copy, three SAS programs that match the published DST crash analysis,
@@ -40,7 +44,7 @@ travel-diary scripts, manuscript correspondence, and side analyses are excluded.
 
 Generated: 2026-05-23 11:12:11 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Public paper-package repositories include `paper/` PDF reference copies by owner decision; publisher takedown requests can be handled later if they arise.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
